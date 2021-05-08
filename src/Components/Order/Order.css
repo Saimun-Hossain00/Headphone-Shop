@@ -1,0 +1,8 @@
+.cartStyle{
+    border: 1px solid gray;
+    margin: auto;
+}
+.checkout{
+    position: absolute;
+    right: 22%;
+}

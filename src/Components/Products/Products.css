@@ -1,0 +1,5 @@
+.cart{
+    float: left;
+    box-shadow: 2px 2px 8px gray;
+    border-radius: 10px;
+}
